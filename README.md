@@ -1,2 +1,3 @@
-# gold-spring-boot
-Golden Template for Spring Boot Services (BYOT Demo)
+# Golden Spring Boot Template
+
+Use this template for all microservices.
